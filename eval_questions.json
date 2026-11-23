@@ -1,0 +1,21 @@
+[
+  {"q": "Why not use a hashmap for two sum?", "video_id": "Fu7LD_mIo00", "from": 1340, "to": 1660},
+  {"q": "What is the brute force solution for two sum and its time complexity?", "video_id": "Fu7LD_mIo00", "from": 1207, "to": 1335},
+  {"q": "Why can't I sort the array if the question asks for indices?", "video_id": "Fu7LD_mIo00", "from": 1040, "to": 1165},
+  {"q": "What are the signs that a problem can be solved with two pointers?", "video_id": "Fu7LD_mIo00", "from": 230, "to": 420},
+  {"q": "What is the time and space complexity of the sorted two pointer solution?", "video_id": "Fu7LD_mIo00", "from": 2726, "to": 2790},
+  {"q": "When does the two pointer loop stop?", "video_id": "Fu7LD_mIo00", "from": 2420, "to": 2560},
+  {"q": "How do you move the pointers when the sum is bigger than the target?", "video_id": "Fu7LD_mIo00", "from": 1945, "to": 2090},
+  {"q": "What is the building analogy for two pointers?", "video_id": "Fu7LD_mIo00", "from": 109, "to": 232},
+
+  {"q": "How does the greedy solution to fractional knapsack handle the last item that does not fully fit?", "video_id": "OaHw9ZZHknw", "from": 3402, "to": 3466},
+  {"q": "When building a tree from preorder and inorder traversals, how is the inorder array used to separate the left and right subtrees?", "video_id": "14NH9aD7XeY", "from": 1366, "to": 1418},
+  {"q": "What is the definition of a complete binary tree?", "video_id": "_V7J7exlyzk", "from": 1860, "to": 1937},
+  {"q": "In the heap template for finding the K smallest elements, what is left in the heap at the end and what do you do with it?", "video_id": "ks8rocoXbJk", "from": 403, "to": 480},
+  {"q": "How do you pull out the last digit of a number and then remove it using modulus and division?", "video_id": "-gC-QEdpvO4", "from": 148, "to": 222},
+  {"q": "How do you find the two swapped nodes in a BST by looking at where the sorted order breaks?", "video_id": "5PrzZfhk1OQ", "from": 1509, "to": 1587},
+  {"q": "What is the difference between a subarray and a subsequence?", "video_id": "V6pRTnOZ7Mc", "from": 219, "to": 312},
+  {"q": "How do you compute the minimum number of meeting rooms using sorted start and end times?", "video_id": "o-ozvzzFpKA", "from": 1381, "to": 1458},
+  {"q": "In top K frequent elements with a min heap, when does a new element replace the one at the top?", "video_id": "5Net0Dd7NAA", "from": 1404, "to": 1486},
+  {"q": "How does a stack detect a closing bracket that has no matching opening bracket?", "video_id": "YutYOZFt6sQ", "from": 962, "to": 1038}
+]
